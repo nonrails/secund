@@ -1,0 +1,10 @@
+[user]
+	name = NonRails
+	email = Nonrails@outlook.com
+[credential]
+	helper = cache --timeout=86400
+[core]
+	editor = code --wait
+[alias]
+	co = checkout
+	cob = checkout
